@@ -17,4 +17,4 @@ student submission + corresponding feedback (if any) is then automatically 'scra
 directory.
  
 
-![alt text](https://github.com/chall168421/repl_scraper/blob/main/Capture.jpg?raw=true)
+![alt text](https://github.com/chall168421/repl_scraper/blob/main/Capture.JPG?raw=true)
