@@ -5,8 +5,8 @@
 
  Install Selenium Chromedriver: https://chromedriver.chromium.org/getting-started and the pyautogui and BeautifulSoup4 packages.
 Run the script, sign into your repl.it account and navigate to the root of your classroom. Let the script do its work - it does not
-do this quickly! As repl.it it kindly encrypt their HTML content in the browser I had to go down the route of an automated click-copy-paste
-route for the actual student submission code. In order for the window selection to work correctly - please resize your Chrome window so
+do this quickly! As repl.it kindly encrypt their HTML content in the browser I had to go down the route of an automated click-copy-paste
+to grab the actual student submission code. In order for the window selection to work correctly - please resize your Chrome window so
 it fills roughly 50% of your screen - it should be placed on the left hand side.<br>
 
  
