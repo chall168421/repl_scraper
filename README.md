@@ -1,6 +1,8 @@
 # repl_scraper
  A tool to download classroom assignments, student submissions, unit tests etc. from the soon-to-be-deprecated  repl.it classroom.<br>
  
+ I discovered today that repl.it have provided an official export feature, so it is probably sensible to use that instead :) A slight waste of time making this - but I had never used Selenium before so useful learning curve perhaps. https://repl.it/classroom-migration
+ 
  ## How to use?
 
  Install Selenium Chromedriver: https://chromedriver.chromium.org/getting-started and the pyautogui and BeautifulSoup4 packages.
